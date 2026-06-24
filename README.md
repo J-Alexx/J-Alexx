@@ -3,7 +3,7 @@
 - I’m currently learning python
 - I’m looking to collaborate on games
 - It's probably best not to reach me
-- >:( Pronouns are stupid
+- >:( Pronoun discussions are stupid
 - Fun fact: ... is valid python syntax
 - I don't like emojis
 
